@@ -1,0 +1,15 @@
+---
+author-meta: 'Puck Engman'
+title-meta: 'Chinese Socialism in the Postwar World'
+geometry:
+  margin=1.5in
+papersize: a4paper
+colorlinks: true
+urlcolor: MidnightBlue
+header-includes:
+    - \usepackage{setspace}
+    - \onehalfspacing
+iconv: utf-8
+mainfont: Palatino
+CJKmainfont: PMingLiU
+---
