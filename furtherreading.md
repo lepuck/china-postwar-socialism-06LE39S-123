@@ -20,6 +20,8 @@ Crook, Isabelle, Christina Gilmartin, and Xiji Yu. _Prosperity's Predicament: Id
 
 DeMare, Brian James. _Land Wars: The Story of China's Agrarian Revolution_. Stanford: Stanford University Press, 2019.
 
+Duara, Prasenjit. “The Cold War as a Historical Period: An Interpretive Essay.” _Journal of Global History_ 6, no. 3 (November 2011): 457–80. <https://doi.org/10.1017/S1740022811000416>.
+
 Frazier, Mark. _The Making of the Chinese Industrial Workplace: State, Revolution, and Labor Management_. Cambridge; New York: Cambridge University Press, 2002.
 
 Gao, James. _The Communist Takeover of Hangzhou: The Transformation of City and Cadre, 1949-1954_. Honolulu: University of Hawaii Press, 2004.
