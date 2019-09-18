@@ -68,7 +68,7 @@ Mazur, Mary. “The United Front Redefined for the Party-State: A Case Study of 
 
 ### Week 8. The Korean War
 
-Garver, John. _China’s Quest: The History of the Foreign Relations of the People’s Republic of China_. New York: Oxford University Press, 2018: pp. 59-91.
+Brown, Jeremy. “From Resisting Communists to Resisting America: Civil War and Korean War in Southwest China, 1950-51.” In _Dilemmas of Victory: The Early Years of the People’s Republic of China_, edited by Jeremy Brown and Paul Pickowicz, 105–29. Cambridge, MA: Harvard University Press, 2010.
 
 Chen Tiqiang, [“Who Is Undermining International Law?”](https://legalform.blog/2019/03/05/the-korean-war-and-the-ontology-of-intervention-chen-tiqiangs-who-is-undermining-international-law-1950-ryan-mitchell/) 2019 (1950), translated and introduced by Ryan Mitchell
 

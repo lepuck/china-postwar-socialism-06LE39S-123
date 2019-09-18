@@ -26,6 +26,8 @@ Frazier, Mark. _The Making of the Chinese Industrial Workplace: State, Revolutio
 
 Gao, James. _The Communist Takeover of Hangzhou: The Transformation of City and Cadre, 1949-1954_. Honolulu: University of Hawaii Press, 2004.
 
+Garver, John. _China’s Quest: The History of the Foreign Relations of the People’s Republic of China_. New York: Oxford University Press, 2018.
+
 Groot, Gerry. _Managing Transitions: The Chinese Communist Party, United Front Work, Corporatism and Hegemony_. London; New York: Routledge, 2004.
 
 Goldstein, Joshua. “Scissors, Surveys, And Psycho-Prophylactics: Prenatal Health Care Campaigns And State Building In China, 1949–1954.” _Journal of Historical Sociology_ 11, no. 2 (January 6, 1998): 153–84. <https://doi.org/10.1111/1467-6443.00059>.
