@@ -22,7 +22,7 @@ Schram, Stuart. _The Thought of Mao Tse-Tung._ Cambridge: Cambridge University P
 
 Mao Zedong. “On the People’s Democratic Dictatorship.” In _Selected Works of Mao Tse-Tung_, IV: pp. 411–24. Beijing: Foreign Languages Press, 1961 (1949).
 
- [Video recording of Mao Zedong declaring the founding of the People’s Republic of China](https://www.youtube.com/watch?v=Xeeowq61oaA) October 1, 1949 (~4 min)
+ [Video recording of the founding ceremony of the People’s Republic of China](https://www.youtube.com/watch?v=odomESBc2q8&t=329s) October 1, 1949 (~12 min)
 
 **~60 pages**
 
